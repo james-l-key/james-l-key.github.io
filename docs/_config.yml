@@ -28,7 +28,7 @@ url: "https://james-l-key.github.io" # the base hostname & protocol for your sit
 github_username:  james-l-key
 
 # Build settings
-# theme: jekyll-theme-architect
+theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
